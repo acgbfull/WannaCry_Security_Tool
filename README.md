@@ -12,7 +12,7 @@
 
 ## Installation guide
 
->git clone https://github.com/acgbfull/small_tools.git
+>git clone https://github.com/acgbfull/WannaCry_Security_Tool.git
 
 
 ## Usage
