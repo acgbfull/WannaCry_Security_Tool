@@ -31,4 +31,3 @@ WannaCry勒索病毒检测查杀与安全加固工具.bat
 ## CHANGE LOG
 
 > 2019/02/08  version:1.0.0
-
