@@ -187,4 +187,3 @@ netsh advfirewall firewall show rule name=all | findstr /i "denyequation"
 netstat -ano | findstr /i "SYN_SENT"
 
 :quit
-
